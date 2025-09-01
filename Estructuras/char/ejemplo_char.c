@@ -35,7 +35,7 @@ int main() { // Función principal
     char letra1;
     int contador = 0;
 
-
+//4. Escribe un programa que cuente cuántas veces aparece una letra en una palabra.
     printf("Ingrese una palabra: ");
     scanf("%s", palabra);
 
@@ -50,7 +50,7 @@ int main() { // Función principal
 
     printf("La letra '%c' aparece %d veces, en la palabra \"%s\".\n", letra1, contador, palabra);
 
-
+//5. Haz un programa que verifique si un carácter ingresado es un dígito numérico.
     char num;
 
     printf("Ingrese un dígito: ");
